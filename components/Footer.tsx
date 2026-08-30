@@ -1,0 +1,2 @@
+import { site } from "@/data/site";
+export default function Footer(){return <footer className="footer"><div className="container footer-inner"><div><strong>{site.name}</strong><p>{site.title}</p></div><div className="footer-links"><a href={site.social.github}>GitHub</a><a href={site.social.linkedin}>LinkedIn</a><a href={site.social.kaggle}>Kaggle</a>{site.social.orcid && <a href={site.social.orcid}>ORCID</a>}<a href={`mailto:${site.email}`}>Email</a></div></div><div className="container footer-bottom">Built with Next.js & TypeScript</div></footer>}
