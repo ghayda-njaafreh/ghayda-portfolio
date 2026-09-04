@@ -139,6 +139,14 @@ public/       Covers, screenshots, videos, certificates, and resumes
 
 This repository contains the source code and public assets for the portfolio website. Private research details and materials that are not appropriate for public release are intentionally excluded.
 
----
 
-© Ghayda N. Ja'afreh
+## License
+
+© 2026 Ghayda N. Ja'afreh. All Rights Reserved.
+
+This repository is publicly available for viewing and professional evaluation only.
+The source code, design, content, project materials, resumes, credentials, and assets
+may not be copied, redistributed, modified, or reused without prior written permission.
+
+See the [LICENSE](LICENSE) file for details.
+
