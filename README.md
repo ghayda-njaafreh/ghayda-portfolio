@@ -1,5 +1,7 @@
 # Ghayda N. Ja'afreh — AI Engineering Portfolio
 
+Live Portfolio: https://ghayda-portfolio.vercel.app/
+
 A professional portfolio showcasing applied AI, data science, computer vision, backend engineering, research-oriented systems, certifications, and role-focused resumes.
 
 ## Overview
@@ -93,7 +95,9 @@ Each resume can be previewed in the browser and downloaded as a PDF.
 - TypeScript
 - React
 - CSS
-- Lucide icons
+- Lucide Icons
+- Vercel
+- Vercel Web Analytics
 - Static assets served from `/public`
 
 ## Run Locally
@@ -101,13 +105,15 @@ Each resume can be previewed in the browser and downloaded as a PDF.
 ```bash
 npm install
 npm run dev
-```
+````
 
 Then open:
 
 ```text
 http://localhost:3000
 ```
+
+No private environment variables are required for local development.
 
 ## Project Structure
 
@@ -120,33 +126,34 @@ public/       Covers, screenshots, videos, certificates, and resumes
 
 ## Design Principles
 
-- Premium technical presentation
-- Consistent project-card system
-- Dedicated pages for major portfolio sections
-- Privacy-aware public release of research material
-- Evidence-based metrics only
-- Clear distinction between implemented work and future directions
-- Responsive layouts for desktop and mobile
+* Premium technical presentation
+* Consistent project-card system
+* Dedicated pages for major portfolio sections
+* Privacy-aware public release of research material
+* Evidence-based metrics only
+* Clear distinction between implemented work and future directions
+* Responsive layouts for desktop and mobile
 
 ## Profiles
 
-- GitHub: https://github.com/ghayda-njaafreh
-- LinkedIn: https://www.linkedin.com/in/ghayda-njaafreh
-- Kaggle: https://www.kaggle.com/jaafreh
-- ORCID: https://orcid.org/0009-0009-4853-8874
+* Portfolio: [https://ghayda-portfolio.vercel.app/](https://ghayda-portfolio.vercel.app/)
+* GitHub: [https://github.com/ghayda-njaafreh](https://github.com/ghayda-njaafreh)
+* LinkedIn: [https://www.linkedin.com/in/ghayda-njaafreh](https://www.linkedin.com/in/ghayda-njaafreh)
+* Kaggle: [https://www.kaggle.com/jaafreh](https://www.kaggle.com/jaafreh)
+* ORCID: [https://orcid.org/0009-0009-4853-8874](https://orcid.org/0009-0009-4853-8874)
 
 ## Repository Note
 
-This repository contains the source code and public assets for the portfolio website. Private research details and materials that are not appropriate for public release are intentionally excluded.
+This repository contains the source code and public assets for the portfolio website.
 
+Private research details and materials that are not appropriate for public release are intentionally excluded.
 
 ## License
 
 © 2026 Ghayda N. Ja'afreh. All Rights Reserved.
 
-This repository is publicly available for viewing and professional evaluation only.
-The source code, design, content, project materials, resumes, credentials, and assets
-may not be copied, redistributed, modified, or reused without prior written permission.
+This repository is publicly available for viewing, professional evaluation, and educational reference only.
+
+The source code, design, content, project materials, resumes, credentials, and assets may not be copied, redistributed, modified, or reused without prior written permission.
 
 See the [LICENSE](LICENSE) file for details.
-
